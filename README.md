@@ -1,6 +1,6 @@
 # ⚽️ EPL-Winning-Team
 ![프리미어리그_로고](https://github.com/Jongwoo0101/EPL-Winning-Team/assets/96978536/9fe4175d-969a-4cc6-96c0-7af68749627f)   
->- [21-22시즌까지의 프리미어리그 경기 결과](https://www.kaggle.com/datasets/irkaal/english-premier-league-results)를 이용하여 경기결과를 예측하는 모델입니다.
+>- [93-94 시즌부터 21-22시즌까지의 프리미어리그 경기 결과](https://www.kaggle.com/datasets/irkaal/english-premier-league-results)를 이용하여 경기결과를 예측하는 모델입니다.
 >- 모든 데이터셋은 [Kaggle](https://www.kaggle.com/)에서 불러왔습니다
 
 <br /> 
