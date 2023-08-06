@@ -22,11 +22,21 @@
 
 <br /> 
 
-# 📈 학습 결과
+# 📈 학습 결과  
+### 입력 값
+> home : Chelsea   
+> away : Tottenham   
+> test_hg : 4     
+> test_ag : 2   
+
+### 결과
+> 0번 인덱스: 홈팀(첼시)의 승리(H)일 확률이 약 92.24% (0.9224165)    
+> 1번 인덱스: 무승부(D)일 확률이 약 7.22% (0.07218365)     
+> 2번 인덱스: 원정팀(토트넘)의 승리(A)일 확률이 약 0.54% (0.0053998)    
+
 | <img src="https://github.com/Jongwoo0101/EPL-Winning-Team/blob/Jongwoo0101/Result/Home%20Away%20Training%20Accuracy.png" width="480px"> | <img src="https://github.com/Jongwoo0101/EPL-Winning-Team/blob/Jongwoo0101/Result/Home%20Away%20Training%20Loss.png" width="480px"> |
 | ---------------------------------------------- | ----------------------------------------------- |
 | Model accuracy                                 | Model loss                                      |
-
 
 <br /> 
 
