@@ -34,7 +34,7 @@
 > 1번 인덱스: 무승부(D)일 확률이 약 7.22% (0.07218365)     
 > 2번 인덱스: 원정팀(토트넘)의 승리(A)일 확률이 약 0.54% (0.0053998)    
 
-| <img src="https://github.com/Jongwoo0101/EPL-Winning-Team/blob/Jongwoo0101/Result/Home%20Away%20Training%20Accuracy.png" width="480px"> | <img src="https://github.com/Jongwoo0101/EPL-Winning-Team/blob/Jongwoo0101/Result/Home%20Away%20Training%20Loss.png" width="480px"> |
+| <img src="./Result/Home Away Training Accuracy.png" width="480px"> | <img src="./Result/Home Away Training Loss.png" width="480px"> |
 | ---------------------------------------------- | ----------------------------------------------- |
 | Model accuracy                                 | Model loss                                      |
 
