@@ -40,5 +40,20 @@
 
 <br /> 
 
+# 💻 GUI   
+<img width="296" alt="스크린샷 2023-08-08 오전 12 17 06" src="https://github.com/Jongwoo0101/EPL-Winning-Team/assets/96978536/14bacc67-8426-444d-afc2-093698cdcb2c">   
+
+> [GUI.py](https://github.com/Jongwoo0101/EPL-Winning-Team/blob/Jongwoo0101/Home_Away/gui.py)를 실행하면 다음과 같은 화면이 나옵니다.   
+> ```data["HomeTeam"].unique()``` 데이터 안에있는 팀2개와  홈/어웨이 팀의 골을 입력하세요.   
+> **Predict**버튼을 누르면 결과가 나옵니다❗️ 
+
+<br /> 
+
+# 🖥️ For M1/M2 Mac users
+> ```model.compile()``` 메서드에서 경고가 나타나고 있는데, SGD 옵티마이저를 사용하는데도 경고가 나타날 수 있습니다.   
+> 옵티마이저 성능 이슈로 인한 경고이므로 이 경우 옵티마이저를 ```tf.keras.optimizers.legacy.SGD```로 변경하십시오.
+
+<br /> 
+
 ## ⚙️Used
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
