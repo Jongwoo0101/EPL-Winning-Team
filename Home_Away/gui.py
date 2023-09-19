@@ -7,6 +7,7 @@ from tkinter import ttk
 data = pd.read_csv('./data/results.csv', encoding='ISO-8859-1')
 
 def get_prediction():
+    
     home = home_var.get()
     away = away_var.get()
     test_hg = int(home_goals_entry.get())
